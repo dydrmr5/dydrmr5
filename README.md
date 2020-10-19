@@ -3,7 +3,7 @@ My name is Zulfikri, (u can call me Zul). I live in Indonesia at Medan City. 201
 
 ### :computer: My Skills
 
-\![Anurag's github stats](https:://github-readme-stats.vercel.app/api?username=ctrlbzul5&show_icons_true)
+\![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ctrlbzul5&show_icons=true)
 
 <!--
 **ctrlbzul5/ctrlbzul5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
