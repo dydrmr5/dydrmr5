@@ -6,7 +6,7 @@ My name is **Zulfikri**, (u can call me Zul). I live in Indonesia at Medan City.
 \
 ![Profile views](https://gpvc.arturio.dev/ctrlbzul5)
 
-# :computer: My Skills
+# My Skills :computer:
 :white_check_mark: Programming \
 :white_check_mark: Design (Figma, CorelDraw, Ilustrator) \
 \
@@ -14,6 +14,6 @@ My name is **Zulfikri**, (u can call me Zul). I live in Indonesia at Medan City.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlbzul5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## More Information :iphone:
-You can message me on [facebook](facebook.com/ZulfricRmd) \
-or DM instagram [instagram](https://instagram.com/@zulfikriry5)
+:white_check_mark: You can message me on [facebook](facebook.com/ZulfricRmd) \
+:white_check_mark: or DM instagram [instagram](https://instagram.com/@zulfikriry5)
 
