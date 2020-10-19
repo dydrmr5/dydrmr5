@@ -3,7 +3,8 @@ My name is Zulfikri, (u can call me Zul). I live in Indonesia at Medan City. 201
 \
 # :computer: My Skills
 :white_check_mark: Programming \
-:white_check_mark: Design (Figma, CorelDraw, Ilustrator)
+:white_check_mark: Design (Figma, CorelDraw, Ilustrator) \
+\
 \
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ctrlbzul5&show_icons=true) \
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlbzul5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
