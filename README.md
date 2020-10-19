@@ -9,6 +9,6 @@ My name is Zulfikri, (u can call me Zul). I live in Indonesia at Medan City. 201
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlbzul5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## More information :iphone:
-\\You can message me on [facebook](facebook.com/ZulfricRmd) \
+\You can message me on [facebook](facebook.com/ZulfricRmd) \
 or DM instagram [instagram](https://instagram.com/@zulfikriry5)
 
