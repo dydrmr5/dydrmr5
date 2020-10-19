@@ -3,11 +3,12 @@ My name is Zulfikri, (u can call me Zul). I live in Indonesia at Medan City. 201
 \
 # :computer: My Skills
 :white_check_mark: Programming \
-:white_check_mark: Design (Figma, CorelDraw, Ilustrator)\
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ctrlbzul5&show_icons=true) \
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlbzul5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+:white_check_mark: Design (Figma, CorelDraw, Ilustrator)
 \
-## more information
-you can message me on [facebook](linkfacebookmu jo copas aj link urlnya semuaanya) \
-or in instagram [instagram](https://instagram.com/namausermu)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ctrlbzul5&show_icons=true) \
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlbzul5&layout=compact)](https://github.com/anuraghazra/github-readme-stats) \
+
+## more information :iphone:
+you can message me on [facebook](facebook.com/ZulfricRmd) \
+or in instagram [instagram](https://instagram.com/@zulfikriry5)
 
