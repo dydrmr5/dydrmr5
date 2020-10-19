@@ -10,7 +10,7 @@ My name is Zulfikri, (u can call me Zul). I live in Indonesia at Medan City. 201
 
 
 ## more information
-you can message me on [facebook](linkfacebookmu jo copas aj link urlnya semuaanya)
+you can message me on [facebook](https://www.facebook.com/ZulfricRmd/)
 <!--
 **ctrlbzul5/ctrlbzul5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
