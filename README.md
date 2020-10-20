@@ -8,13 +8,13 @@ I love Programming and Design and would never think twice to share my knowledge 
 ![Profile views](https://gpvc.arturio.dev/ctrlbzul5)
 
 # My Skills :computer:
-:white_check_mark: Programming \
-:white_check_mark: Design (Figma, CorelDraw, Ilustrator) \
+:star: Programming \
+:star: Design (Figma, CorelDraw, Ilustrator) \
 \
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ctrlbzul5&show_icons=true) \
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlbzul5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## More Information :iphone:
-:white_check_mark: You can message me on [facebook](facebook.com/ZulfricRmd) \
-:white_check_mark: or DM instagram [instagram](https://instagram.com/@zulfikriry5)
+:heavy_check_mark: You can message me on [facebook](facebook.com/ZulfricRmd) \
+:heavy_check_mark: or DM instagram [instagram](https://instagram.com/@zulfikriry5)
 
