@@ -16,5 +16,5 @@ I love Programming and Design and would never think twice to share my knowledge 
 
 ## More Information :iphone:
 :radio_button: You can message me on [facebook](facebook.com/ZulfricRmd) \
-:radio_button: or DM me on instagram [instagram](https://instagram.com/@zulfikriry5)
+:radio_button: or DM me on [instagram](https://instagram.com/@zulfikriry5)
 
