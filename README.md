@@ -15,6 +15,6 @@ I love Programming and Design and would never think twice to share my knowledge 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlbzul5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## More Information :iphone:
-:heavy_check_mark: You can message me on [facebook](facebook.com/ZulfricRmd) \
-:heavy_check_mark: or DM instagram [instagram](https://instagram.com/@zulfikriry5)
+:radio_button: You can message me on [facebook](facebook.com/ZulfricRmd) \
+:radio_button: or DM me on instagram [instagram](https://instagram.com/@zulfikriry5)
 
