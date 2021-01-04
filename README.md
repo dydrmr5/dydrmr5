@@ -1,4 +1,4 @@
-## Hi, Hello
+## Hi, Hello :wave:
 <p align="center">
   <img src="https://media.giphy.com/media/XYrHWGJPtaQMM/giphy.gif" height="200" width="380"/>
 </p>
