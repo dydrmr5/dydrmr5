@@ -1,5 +1,7 @@
-# Hello There 👋
-## <img src="https://i.pinimg.com/originals/eb/a8/9e/eba89e7bb2121d9f066fbc7d616a0dc0.gif" width="50" height="50" align="center"/>
+# Hi Hi Hello 👋
+## <p align="center">
+  <img src="https://i.pinimg.com/originals/0c/6a/87/0c6a8788d5a21cb84faec253ab0c8804.gif" height="200" width="450"/>
+</p>
 
 # About Me :boy:
 My name is **Zulfikri**, (u can call me Zul). I live in Indonesia at Medan City. 2017 is my first year "into" programming. I start with HTML & CSS and during the Covid19 pandemic (2020), I start to learn C++ as my first programming language (better late than never, right?😄). \
