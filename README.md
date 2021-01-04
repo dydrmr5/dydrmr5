@@ -1,17 +1,17 @@
-## Hi, Hello 👋
+## Hi, Hello
 <p align="center">
   <img src="https://media.giphy.com/media/XYrHWGJPtaQMM/giphy.gif" height="200" width="380"/>
 </p>
 
 ## About Me :sagittarius:
-My name is **Zulfikri**. I live in Indonesia at Medan City. 2017 is my first year "into" programming. I've started with **HTML & CSS** and during the Covid19 pandemic (2020), I start to learn **C++** as my first programming language (better late than never, right?). \
+My name is **Zulfikri**. I live in Indonesia :id: at Medan City. 2017 is my first year "into" programming. I've started with **HTML & CSS** and during the Covid19 pandemic (2020), I start to learn **C++** as my first programming language (better late than never, right?). \
 **I love Programming and Design and would never think twice to share my knowledge with everyone** :gift_heart: \
 \
 ![Profile views](https://gpvc.arturio.dev/ctrlbzul5)
 
 ## My Skills :computer:
-:floppy_disk: Programming \
-:floppy_disk: Design (Figma, CorelDraw, Ilustrator) \
+:arrow_forward: Programming \
+:arrow_forward: Design (Figma, CorelDraw, Ilustrator) \
 \
 ![gitStat](https://github-readme-stats.vercel.app/api?username=ctrlbzul5&show_icons=true&theme=tokyonight) \
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlbzul5&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
