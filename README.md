@@ -13,7 +13,7 @@ I love Programming and Design and would never think twice to share my knowledge 
 :star: Programming \
 :star: Design (Figma, CorelDraw, Ilustrator) \
 \
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ctrlbzul5&show_icons=true) \
+![gitStat](https://github-readme-stats.vercel.app/api?username=slowy07&show_icons=true&theme=tokyonight) \
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlbzul5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p align="left">
   <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" width="40" height="40"alt="python">
