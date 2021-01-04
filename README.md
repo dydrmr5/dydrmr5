@@ -22,5 +22,5 @@ I love Programming and Design and would never think twice to share my knowledge 
 
 ## Talk to Me :
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zulfikriry5)
-[![facebook](https://img.shields.io/badge/Twitter-2980B9?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ZulfricRmd5)
+[![facebook](https://img.shields.io/badge/Facebook-2980B9?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ZulfricRmd5)
 
