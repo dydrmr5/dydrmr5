@@ -20,7 +20,7 @@ I love Programming and Design and would never think twice to share my knowledge 
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cpp_icon_130670.png" width="40" height="40" alt="cpp">
 </p>
 
-## More Information :iphone:
-:radio_button: You can message me on [facebook](facebook.com/ZulfricRmd) \
-:radio_button: or DM me on [instagram](https://instagram.com/@zulfikriry5)
+## Talk to Me :
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zulfikriry5)
+[![facebook](https://img.shields.io/badge/Twitter-2980B9?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ZulfricRmd5)
 
