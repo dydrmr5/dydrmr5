@@ -1,5 +1,5 @@
 # Hello There 👋
-<img src = "https://github.com/ctrlbzul5/ctrlbzul5/blob/main/4373408.jpg?raw=true"/> 
+## <img src="https://i.pinimg.com/originals/eb/a8/9e/eba89e7bb2121d9f066fbc7d616a0dc0.gif" width="50" height="50" align="center"/>
 
 # About Me :boy:
 My name is **Zulfikri**, (u can call me Zul). I live in Indonesia at Medan City. 2017 is my first year "into" programming. I start with HTML & CSS and during the Covid19 pandemic (2020), I start to learn C++ as my first programming language (better late than never, right?😄). \
