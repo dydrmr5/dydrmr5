@@ -9,7 +9,7 @@ My name is **Zulfikri**. I live in Indonesia :id: at Medan City. 2017 is my firs
 \
 ![Profile views](https://gpvc.arturio.dev/ctrlbzul5)
 
-## My Skills :computer:
+## My Skills
 :arrow_forward: Programming \
 :arrow_forward: Design (Figma, CorelDraw, Ilustrator) \
 \
