@@ -23,4 +23,5 @@ My name is **Zulfikri**. I live in Indonesia at Medan City. 2017 is my first yea
 ## Talk to Me :arrow_down_small:
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zulfikriry5)
 [![facebook](https://img.shields.io/badge/Facebook-2980B9?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ZulfricRmd5)
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.telegram.me/zulfikriry)
 
